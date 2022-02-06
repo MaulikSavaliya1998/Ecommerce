@@ -4,8 +4,5 @@
 /node_modules
 
 # local env files
-/backend/config
-
-
-/package-lock.json
+*.env
 
